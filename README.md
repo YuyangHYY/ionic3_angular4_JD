@@ -26,15 +26,7 @@
 
 
 
-#### 6.可预览android版本apk
-
-[点击下载apk](https://github.com/dicallc/ionic3_angular4_JD/raw/master/gif/android-release.apk)
-
-#### 7.源码查看
-
-[点击打开代码地址](https://github.com/dicallc/ionic3_angular4_JD)
-
-#### 8.paypal支付地址
+#### 6.paypal支付地址 - $299
 
 [支付地址](https://github.com/dicallc/ionic3_angular4_JD/raw/master/gif/android-release.apk)
 
