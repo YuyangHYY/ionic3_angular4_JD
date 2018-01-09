@@ -30,6 +30,8 @@
 
 [支付地址](https://www.paypal.com/my/home)
 
+#### 7.npm install CLI 输入license key
+
 ----------
 ### 再次记录从NG1-4一下坑吧 ###
 
