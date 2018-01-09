@@ -34,6 +34,10 @@
 
 [点击打开代码地址](https://github.com/dicallc/ionic3_angular4_JD)
 
+#### 8.paypal支付地址
+
+[支付地址](https://github.com/dicallc/ionic3_angular4_JD/raw/master/gif/android-release.apk)
+
 ----------
 ### 再次记录从NG1-4一下坑吧 ###
 
