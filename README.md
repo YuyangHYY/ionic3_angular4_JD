@@ -28,7 +28,7 @@
 
 #### 6.paypal支付地址 - $299
 
-[支付地址](https://github.com/dicallc/ionic3_angular4_JD/raw/master/gif/android-release.apk)
+[支付地址](https://www.paypal.com/my/home)
 
 ----------
 ### 再次记录从NG1-4一下坑吧 ###
