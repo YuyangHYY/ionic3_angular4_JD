@@ -70,15 +70,13 @@ export const FILE_SERVE_URL = 'http://localhost:8100/kit_file_server';
 <img src="https://raw.githubusercontent.com/dicallc/ionic3_angular4_JD/master/gif/daotu.png"  alt="上海鲜花港 - 郁金香" />
 
 ### 结语： ###
-1.耗时两周自学angular4和ionic3，其实很多东西不一样了，还好有SS，自从学了前端，一直在墙外看资料，看了很多人记录的帖子，觉得应该回报一下开源了。
-
 
 第三方js：
 使用typings 添加**swipe**r(幻灯片)，**ng-lazyload-image**(懒加载)，**jquery**(快捷开发)
 
 <br>
 
- 最后，如果这个项目能帮到你，动动你的鼠标点一下start呗 
+ 最后，如果这个项目能帮到你，动动你的鼠标点一下star呗 
 
 
 ### 更新日志： ###
